@@ -25,5 +25,8 @@ The Weather App is a web application that shows the weather condition of places.
 2. Clickthe Search Bar and enter the Name of City and press the Search Icon.
 3. Enjoy exploring the weather conditions around the globe!
 
+## Link
+
+- Deployed Site : https://weather-app-2d4l.onrender.com
 
 ![Screenshot 2023-11-15 214031](https://github.com/AdityaSingh2005/Weather_App_Using_React/assets/103613774/ba0ea3b4-8ca6-4046-a425-e831b61a1b36)
