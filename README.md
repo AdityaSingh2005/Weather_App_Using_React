@@ -1,11 +1,11 @@
-# Weather App Using React
+# Weather App Using React 🌥️
 
 
 This project is a Weather App was created to learn and implement concepts related to ReactJs and APIs. ReactJs is a simple language that allows for creating dynamic frontend part.
 
 ## Introduction
 
-The Band Name Generator is a web application that randomly generates unique band names by combining various words and phrases. This project was created as a practical exercise to grasp the fundamentals of EJS, such as rendering dynamic content and understanding control flow within templates.
+The Weather App is a web application that shows the weather condition of places. This project was created as a practical exercise to grasp the fundamentals of ReactJs, and working with APIs.
 
 ## Features
 
@@ -19,7 +19,6 @@ The Band Name Generator is a web application that randomly generates unique band
 - **CSS:** Used for deisging part.
 - **API:** Used for fetching the real-time weather condition around the globe.
 
-
 ## Usage
 
 1. Open your web browser and navigate to `http://localhost:3000`.
@@ -27,4 +26,4 @@ The Band Name Generator is a web application that randomly generates unique band
 3. Enjoy exploring the weather conditions around the globe!
 
 
-![band name generator](https://github.com/nikkittaa/Band-Generator/assets/119802510/6a1074f3-bdd5-42f0-9501-d484a3d239b5)
+![Screenshot 2023-11-15 214031](https://github.com/AdityaSingh2005/Weather_App_Using_React/assets/103613774/ba0ea3b4-8ca6-4046-a425-e831b61a1b36)
